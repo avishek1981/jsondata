@@ -2,22 +2,22 @@
   "get": [
     {
       "id": 1,
-      "category" : "Red"
+      "category" : "Red",
       "value" : 15
     },
     {
       "id": 2,
-      "category" : "Green"
+      "category" : "Green",
       "value" : 52
     },
     {
       "id": 3,
-      "category" : "Blue"
+      "category" : "Blue",
       "value" : 25
     },
     {
       "id": 4,
-      "category" : "Orange"
+      "category" : "Orange",
       "value" : 10
     }
   ],
@@ -32,8 +32,5 @@
       "body": "some comment",
       "postId": 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
