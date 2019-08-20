@@ -1,12 +1,39 @@
 {
-"get" : [
-  {"START" : "12/2018", 
-  "VALUE" : 18},
-  {"START" : "01/2019", 
-  "VALUE" : 20},
-  {"START" : "02/2019", 
-  "VALUE" : 8},
-  {"START" : "03/2019", 
-  "VALUE" :  50}
-]
+  "get": [
+    {
+      "id": 1,
+      "category" : "Red"
+      "value": 15
+    },
+    {
+      "id": 2,
+      "category" : "Green"
+      "value": 52
+    },
+    {
+      "id": 3,
+      "category" : "Blue"
+      "value": 25
+    },
+    {
+      "id": 4,
+      "category" : "Orange"
+      "value": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
