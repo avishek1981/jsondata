@@ -3,22 +3,22 @@
     {
       "id": 1,
       "category" : "Red"
-      "value": 15
+      "value" : 15
     },
     {
       "id": 2,
       "category" : "Green"
-      "value": 52
+      "value" : 52
     },
     {
       "id": 3,
       "category" : "Blue"
-      "value": 25
+      "value" : 25
     },
     {
       "id": 4,
       "category" : "Orange"
-      "value": 10
+      "value" : 10
     }
   ],
   "comments": [
